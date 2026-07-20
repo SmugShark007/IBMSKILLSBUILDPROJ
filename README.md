@@ -100,7 +100,7 @@ WasteClassificationWebsite/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/RaveeshSehrawat/WasteClassificationWebsite.git
+git clone https://github.com/SmugShark007/IBMSKILLSBUILDPROJ.git
 cd WasteClassificationWebsite
 ```
 
