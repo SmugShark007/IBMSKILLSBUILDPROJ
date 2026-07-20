@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# ♻️ Waste Classification & Disposal Guide
+# ♻️ Waste Classification & Disposal Guide
 
 ## Presented By: **Team YOROZUYA**
 
@@ -197,4 +196,3 @@ Made with ♻️ by **Team YOROZUYA**
 
 =======
 # IBMSKILLSBUILDPROJ
->>>>>>> 859c7b17080c681616b21a5629f45c11e414428c
