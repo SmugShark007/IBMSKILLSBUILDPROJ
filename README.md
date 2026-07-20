@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# ♻️ Waste Classification & Disposal Guide
 
 ## Presented By: **Team AIR 8**
@@ -198,3 +199,6 @@ This project is developed for the final project of Agentic AI IBM SkillsBuild, C
 
 Made with ♻️ by **Team AIR 8**
 
+=======
+# IBMSKILLSBUILDPROJ
+>>>>>>> 859c7b17080c681616b21a5629f45c11e414428c
