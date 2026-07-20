@@ -1,17 +1,13 @@
 <<<<<<< HEAD
 ﻿# ♻️ Waste Classification & Disposal Guide
 
-## Presented By: **Team AIR 8**
+## Presented By: **Team YOROZUYA**
 
 ### 🎓 Team Members
 - **Abhisaar Ratha** (01119051923)
 - **Yashwardhan Singh** (01219051923)
 - **Ritvik Nelly** (01419051923)
 - **Mohammad Liban Ansari** (01519051923)
-- **Aryav Yadav** (01719051923)
-- **Tejas Jain** (02619051923)
-- **Raveesh Sehrawat** (02819051923)
-- **Mohan Sahni** (03719051923)
 
 **University School of Automation and Robotics, GGSIPU**
 
@@ -197,7 +193,7 @@ This project is developed for the final project of Agentic AI IBM SkillsBuild, C
 
 *"Together for a Sustainable Future" 🌍*
 
-Made with ♻️ by **Team AIR 8**
+Made with ♻️ by **Team YOROZUYA**
 
 =======
 # IBMSKILLSBUILDPROJ
